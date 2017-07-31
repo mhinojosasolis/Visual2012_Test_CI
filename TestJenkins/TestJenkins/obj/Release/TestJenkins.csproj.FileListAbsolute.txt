@@ -1,0 +1,7 @@
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\TestJenkins\bin\TestJenkins.dll
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\TestJenkins\bin\TestJenkins.pdb
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\TestJenkins\obj\Release\TestJenkins.dll
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\TestJenkins\obj\Release\TestJenkins.pdb
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\TestJenkins\bin\Datos.dll
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\TestJenkins\bin\Datos.pdb
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\TestJenkins\obj\Release\TestJenkins.csprojResolveAssemblyReference.cache

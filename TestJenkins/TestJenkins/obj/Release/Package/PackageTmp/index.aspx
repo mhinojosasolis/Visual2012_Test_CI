@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <h1>Prueba de Jenkins 2</h1>
+    <h1>Prueba de Jenkins</h1>
     </div>
         <asp:CheckBoxList ID="CheckBoxList1" runat="server">
         </asp:CheckBoxList>

@@ -1,0 +1,4 @@
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\Datos\bin\Release\Datos.dll
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\Datos\bin\Release\Datos.pdb
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\Datos\obj\Release\Datos.dll
+D:\3.-IDEs_Desarrollo\ProyectosVisualStudio\Visual2012_Test_CI\TestJenkins\Datos\obj\Release\Datos.pdb
